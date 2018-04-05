@@ -315,7 +315,6 @@
     position: relative;
 }
 .layers-container img {
-  position: absolute;
   width: 100%;
   height: auto;
   top: 0;

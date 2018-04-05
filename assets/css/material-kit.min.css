@@ -9088,7 +9088,7 @@ textarea {
     height: 50px;
     font-size: 1.125rem;
     line-height: 30px;
-    padding: .625rem 0
+    padding: 0px
 }
 .navbar>.container {
     flex: 1
